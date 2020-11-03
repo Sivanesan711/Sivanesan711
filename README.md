@@ -5,13 +5,13 @@
 - 🌱 I’m currently learning Coding
 - 👯 I’m looking to work on passionate Developer Role
 
-##Connect with me:
+## Connect with me:
 
-[![Linkedin Badge](https://www.linkedin.com/in/sivanesan-dhanikachalam-13b977188/)]
+[![Linkedin Badge]](https://www.linkedin.com/in/sivanesan-dhanikachalam-13b977188/)
 
-##Language and Tools:
+## Language and Tools:
 
-[![visual studio code]
+[![visual studio code]]
 
 
 
