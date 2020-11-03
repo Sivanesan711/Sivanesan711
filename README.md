@@ -1,11 +1,13 @@
 ### Hi there, I am Sivanesan..!!!👋
 
-I am Software Developer, UI/UX Designer and Content Creator. I love to write about Technology, Life and Things that matter and A Student who learns new things everyday.
+I am Software Developer, UI/UX Designer and Content Creator. I love to write about Technology, Life and Things that matter.
 
 - 🌱 I’m currently learning AI
 - 👯 I’m looking for a role of Software Developer
 - 💬 Ask me about Life, Technology
 - 📫 How to reach me: sivanesan_dh@outlook.com | +91-8883166652
+- 😄 Pronouns: Creative | Innovative | Honest
+- ⚡ Fun fact: I’d most like to be remembered for my Childhood memories
 
 ### Connect with me:
 
