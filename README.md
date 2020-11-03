@@ -4,10 +4,14 @@
 
 - 🌱 I’m currently learning Coding
 - 👯 I’m looking to work on passionate Developer Role
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+##Connect with me:
+
+[![Linkedin Badge](https://www.linkedin.com/in/sivanesan-dhanikachalam-13b977188/)]
+
+##Language and Tools:
+
+[![visual studio code]
 
 
 
