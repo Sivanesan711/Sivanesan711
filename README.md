@@ -9,11 +9,11 @@
 
 [![Linkedin Badge]](https://www.linkedin.com/in/sivanesan-dhanikachalam-13b977188/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/sivanesan-dhanikachalam-13b977188/)
 
 ## Language and Tools:
 
-[![visual studio code]]
+[![Visual Studio Code]https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg]
 
 
 
