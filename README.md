@@ -7,7 +7,7 @@
 - 💬 Ask me about Life, Technology
 - 📫 How to reach me: sivanesan_dh@outlook.com | +91-8883166652
 - 😄 Pronouns: Creative | Innovative | Honest
-- ⚡ Fun fact: I’d most like to be remembered for my Childhood memories
+- ⚡ Fun fact: If I had to eat one type of food for the rest of my life, it would be #### Biryani
 
 ### Connect with me:
 
