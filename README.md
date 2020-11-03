@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning Coding
 - 👯 I’m looking to work on passionate Developer Role
+- 💬 Ask me about 
+- 📫 How to reach me: sivanesan_dh@outlook.com | +91-8883166652
 
 ## Connect with me:
 
